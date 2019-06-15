@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Az Ahoy!-ban mindent te állíthatsz össze speciális menünk segítségével.
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/chemex.jpg
+heading: Almalé
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
